@@ -1,0 +1,7 @@
+= SampleApi
+
+This project rocks and uses MIT-LICENSE.
+
+
+Mount Plugin in Main App
+  mount SampleApi::Engine => "/sample_api"
